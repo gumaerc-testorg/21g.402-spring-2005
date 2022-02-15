@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Berlin video. Video on reserve shelf in LLARC.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-402-german-ii-spring-2005/7c7c909b6b038dbdc0809f90eec25a93_MIT21G_402S05_berlinvideo.pdf
+file: /media/courses/21g-402-german-ii-spring-2005/7c7c909b6b038dbdc0809f90eec25a93_MIT21G_402S05_berlinvideo.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Arbeitsblatt Berlin Video 1993
 uid: 7c7c909b-6b03-8dbd-c080-9f90eec25a93
