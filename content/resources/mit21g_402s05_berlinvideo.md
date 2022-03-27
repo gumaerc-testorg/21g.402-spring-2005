@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 05477db5-46c4-00a2-52ae-ab86ea070895
 resourcetype: Document
 title: Arbeitsblatt Berlin Video 1993
 uid: 7c7c909b-6b03-8dbd-c080-9f90eec25a93

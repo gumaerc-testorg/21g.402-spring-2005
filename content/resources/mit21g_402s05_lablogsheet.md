@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: e1e1fba5-543b-b2cd-c09b-b775adbb7395
 resourcetype: Document
 title: Lab Log Sheet
 uid: 8a63d724-4e95-85d7-886d-c13bb2fb6e42

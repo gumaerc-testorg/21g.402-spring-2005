@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 05477db5-46c4-00a2-52ae-ab86ea070895
 resourcetype: Document
 title: MIT21G_402S05_deutschlandl.pdf
 uid: ab00a8a6-1950-e258-eff8-cb6566d5c83b

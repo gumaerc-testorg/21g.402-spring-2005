@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 05477db5-46c4-00a2-52ae-ab86ea070895
 resourcetype: Document
 title: MIT21G_402S05_stephanbossh.pdf
 uid: 522580b4-c512-c72e-99eb-f3c6c5a2dcac

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 05477db5-46c4-00a2-52ae-ab86ea070895
 resourcetype: Document
 title: Microsoft Word - Karola_Meszaros
 uid: b5515234-98c2-22f9-e410-559cb568b7ca

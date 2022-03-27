@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: fd1f2e20-d526-8ba1-79fb-10852609fb4b
 resourcetype: Document
 title: lab_log_sheet.pdf
 uid: 6de1a1ff-3c72-50a6-97ef-faa4b35cb5ea
