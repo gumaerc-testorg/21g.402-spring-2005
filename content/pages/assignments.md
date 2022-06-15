@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments and related
+  files.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -9,7 +11,7 @@ uid: 05477db5-46c4-00a2-52ae-ab86ea070895
 
 [Student work](#student_work) is available for this course.
 
-Please note that references to videos are coded according to the catalog in the LLARC. Full citation information is available on the [LLARC Web site](http://llarc.mit.edu/). "LM" notation indicates activities in the course lab manual, listed in the Texts section of the [syllabus]({{< baseurl >}}/pages/syllabus).
+Please note that references to videos are coded according to the catalog in the LLARC. Full citation information is available on the [LLARC Web site](http://llarc.mit.edu/). "LM" notation indicates activities in the course lab manual, listed in the Texts section of the {{% resource_link e1e1fba5-543b-b2cd-c09b-b775adbb7395 "syllabus" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -43,7 +45,7 @@ _Lesen_: Grammatik S. 253-259 and practice the _Üben wir_! (LM Übungen 1, 3, 5
 
 {{< tdclose >}}
 {{< tdopen >}}
-Lab Log Sheet ([PDF]({{< baseurl >}}/resources/mit21g_402s05_lablogsheet-1))
+Lab Log Sheet ({{% resource_link 5168906c-d3e4-944f-8e86-0ce7015e7dff "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,7 +75,7 @@ _Umweltschutz_
 
 [Berlin Umwelt](http://www.stadtentwicklung.berlin.de/umwelt/)
 
-_Arbeitsblatt zum Ökologie-Video_ ([PDF]({{< baseurl >}}/resources/mit21g_402s05_oko_tip))
+_Arbeitsblatt zum Ökologie-Video_ ({{% resource_link d466b9f7-28a1-9204-2073-fcf8f0d0e55d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -103,7 +105,7 @@ zum Autor
 
 [Sample Assignments](#student_work)
 
-Die Deutschstunde - sample by Rafal Mickiewicz ([PDF]({{< baseurl >}}/resources/mit21g_402s05_rafalmickiew))
+Die Deutschstunde - sample by Rafal Mickiewicz ({{% resource_link 4af26599-036f-5e58-55ca-c8c23ae86b72 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -225,7 +227,7 @@ _Schreiben_ Sie eine kurze Geschichte mit 10 Verben im Präteritum.
 {{< tdopen >}}
 
 
-Eeine kurze Geschichte mit 10 Verben im Präteritum - sample by Karola Meszaros ([PDF]({{< baseurl >}}/resources/mit21g_402s05_karolameszar))
+Eeine kurze Geschichte mit 10 Verben im Präteritum - sample by Karola Meszaros ({{% resource_link b5515234-98c2-22f9-e410-559cb568b7ca "PDF" %}})
 
 [Sample Assignments](#student_work)
 
@@ -297,7 +299,7 @@ _Schreiben:_ eine kurze Geschichte (200 Wörter): "Als meine Großmutter jung wa
 {{< tdopen >}}
 
 
-"Als meine Großmutter jung war, ..." - sample by Stephan Bosshard ([PDF]({{< baseurl >}}/resources/mit21g_402s05_stephanbossh))
+"Als meine Großmutter jung war, ..." - sample by Stephan Bosshard ({{% resource_link 522580b4-c512-c72e-99eb-f3c6c5a2dcac "PDF" %}})
 
 [Sample Assignments](#student_work)
 
@@ -387,9 +389,9 @@ _Schreiben_: Arbeitsheft S. 115-118, Übungen F-K
 
 _Arbeitsblätter - Hausaufgabe: Das Lied der Deutschen_
 
-Zur Cassette GE 006 "Einigkeit und Recht und Freiheit" ([PDF]({{< baseurl >}}/resources/mit21g_402s05_deutschlandl))
+Zur Cassette GE 006 "Einigkeit und Recht und Freiheit" ({{% resource_link ab00a8a6-1950-e258-eff8-cb6566d5c83b "PDF" %}})
 
-Umwelt Deutschland ([PDF]({{< baseurl >}}/resources/mit21g_402s05_deutschlandl))
+Umwelt Deutschland ({{% resource_link ab00a8a6-1950-e258-eff8-cb6566d5c83b "PDF" %}})
 
 
 {{< tdclose >}}
@@ -441,7 +443,7 @@ _Lernen_: Wortschatz 1+2 für den Vokabeltest
 
 _Arbeitsblätter - Hausaufgabe: Berlin_
 
-Berlin Video ([PDF]({{< baseurl >}}/resources/mit21g_402s05_berlinvideo))
+Berlin Video ({{% resource_link 7c7c909b-6b03-8dbd-c080-9f90eec25a93 "PDF" %}})
 
 _Geographie Deutschlands_
 
@@ -668,7 +670,7 @@ Bereiten Sie einen kurzen Vortrag vor (siehe Arbeitsblatt dazu).
 
 _Arbeitsblätter - Kurzreferat_
 
-Hinweise zum Kurzreferat ([PDF]({{< baseurl >}}/resources/mit21g_402s05_kurzereferat))
+Hinweise zum Kurzreferat ({{% resource_link 123dfc90-6464-5533-9db3-2929bf7c5179 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -1161,8 +1163,8 @@ _Schreiben_: im Arbeitsheft S. 172-173, Übung E Das Arbeitsheft (+ Lab Log shee
 
 Listed below are seleted student compositions, by topic, from previous semesters.
 
-Die Deutschstunde - sample by Rafal Mickiewicz ([PDF]({{< baseurl >}}/resources/mit21g_402s05_rafalmickiew))  
+Die Deutschstunde - sample by Rafal Mickiewicz ({{% resource_link 4af26599-036f-5e58-55ca-c8c23ae86b72 "PDF" %}})  
   
-Schreiben Sie einen kurzen Text mit 10 starken Verben, die Ihnen Mühe machen. - sample by Karola Meszaros ([PDF]({{< baseurl >}}/resources/mit21g_402s05_karolameszar))  
+Schreiben Sie einen kurzen Text mit 10 starken Verben, die Ihnen Mühe machen. - sample by Karola Meszaros ({{% resource_link b5515234-98c2-22f9-e410-559cb568b7ca "PDF" %}})  
   
-"Als meine Großmutter jung war..." - sample by Stephan Bosshard ([PDF]({{< baseurl >}}/resources/mit21g_402s05_stephanbossh))
+"Als meine Großmutter jung war..." - sample by Stephan Bosshard ({{% resource_link 522580b4-c512-c72e-99eb-f3c6c5a2dcac "PDF" %}})
