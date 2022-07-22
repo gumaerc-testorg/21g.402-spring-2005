@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information about the written tests, vocabulary
+  quizzes, and oral presentation for the course.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 5dfd508a-1e26-ec3a-a4fa-66ea93c60bb2
 ---

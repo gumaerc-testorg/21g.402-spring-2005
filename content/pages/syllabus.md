@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, texts,
+  language labs, homework, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: e1e1fba5-543b-b2cd-c09b-b775adbb7395
 ---
@@ -27,7 +31,7 @@ Additional handouts on various aspects of culture as well as grammar and functio
 Language Lab
 ------------
 
-Regular daily attendance at the Language Learning and Resource Center (LLARC) for short periods of time (15-20 minutes) is strongly suggested. Please record the time you spend working with the different parts of the tape system both in the lab and at home on the lab log provided ([PDF]({{< baseurl >}}/resources/mit21g_402s05_lablogsheet)). The lab log will be collected by the instructor with the Workbook/Lab Manual.
+Regular daily attendance at the Language Learning and Resource Center (LLARC) for short periods of time (15-20 minutes) is strongly suggested. Please record the time you spend working with the different parts of the tape system both in the lab and at home on the lab log provided ({{% resource_link 8a63d724-4e95-85d7-886d-c13bb2fb6e42 "PDF" %}}). The lab log will be collected by the instructor with the Workbook/Lab Manual.
 
 Homework
 --------
