@@ -6,6 +6,7 @@ file: /courses/21g-402-german-ii-spring-2005/5168906cd3e4944f8e860ce7015e7dff_MI
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lab Log Sheet
 uid: 5168906c-d3e4-944f-8e86-0ce7015e7dff
 ---
 Resource required to record the time spent working with the different parts of the tape system both in the lab and at home.
-
