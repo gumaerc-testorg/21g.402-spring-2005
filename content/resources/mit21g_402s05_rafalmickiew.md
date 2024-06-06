@@ -2,6 +2,7 @@
 content_type: resource
 description: Die Deutschstunde - sample by Rafal Mickiewicz.
 file: /courses/21g-402-german-ii-spring-2005/4af26599036f5e5855cac8c23ae86b72_MIT21G_402S05_rafalmickiew.pdf
+file_size: 65555
 file_type: application/pdf
 learning_resource_types:
 - Assignments
