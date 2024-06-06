@@ -2,6 +2,7 @@
 content_type: resource
 description: Kurzes Referat
 file: /courses/21g-402-german-ii-spring-2005/b1ec7849be552de40fb19d046c3478b8_kurzereferat.pdf
+file_size: 53241
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

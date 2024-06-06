@@ -2,6 +2,7 @@
 content_type: resource
 description: '"Die Musik hielt."'
 file: /courses/21g-402-german-ii-spring-2005/b551523498c222f9e410559cb568b7ca_MIT21G_402S05_karolameszar.pdf
+file_size: 68953
 file_type: application/pdf
 learning_resource_types:
 - Assignments
