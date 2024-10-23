@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Berlin: Gestern und Heute'
-file: /courses/21g-402-german-ii-spring-2005/74f6ed32d94581923e000dd6fca79e10_berlinvideo.pdf
+file: /ol-ocw-studio-app/courses/21g-402-german-ii-spring-2005/74f6ed32d94581923e000dd6fca79e10_berlinvideo.pdf
 file_size: 86112
 file_type: application/pdf
 learning_resource_types: []
