@@ -2,7 +2,7 @@
 content_type: resource
 description: Resource required to record the time spent working with the different
   parts of the tape system both in the lab and at home.
-file: /ol-ocw-studio-app/courses/21g-402-german-ii-spring-2005/5168906cd3e4944f8e860ce7015e7dff_MIT21G_402S05_labLogSheet.pdf
+file: /courses/21g-402-german-ii-spring-2005/5168906cd3e4944f8e860ce7015e7dff_MIT21G_402S05_labLogSheet.pdf
 file_size: 124257
 file_type: application/pdf
 learning_resource_types:
