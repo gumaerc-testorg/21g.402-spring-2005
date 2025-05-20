@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Berlin video. Video on reserve shelf in LLARC.
-file: /ol-ocw-studio-app/courses/21g-402-german-ii-spring-2005/7c7c909b6b038dbdc0809f90eec25a93_MIT21G_402S05_berlinvideo.pdf
+file: /courses/21g-402-german-ii-spring-2005/7c7c909b6b038dbdc0809f90eec25a93_MIT21G_402S05_berlinvideo.pdf
 file_size: 78046
 file_type: application/pdf
 learning_resource_types:
