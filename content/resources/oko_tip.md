@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Arbeitsblatt zum Video: GE 230 Bildschirm 6:Okologie'
-file: /courses/21g-402-german-ii-spring-2005/de9b829ce1aa63780b84f8ab7a4880c1_oko_tip.pdf
+file: /ol-ocw-studio-app/courses/21g-402-german-ii-spring-2005/de9b829ce1aa63780b84f8ab7a4880c1_oko_tip.pdf
 file_size: 60664
 file_type: application/pdf
 learning_resource_types: []
